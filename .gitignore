@@ -1,3 +1,6 @@
 
 m5-forecasting/data/sales_train_validation.csv
 m5-forecasting/data/sell_prices.csv
+liverpool-ion-switching/data/test_clean.csv/test_clean.csv
+liverpool-ion-switching/data/train_clean.csv/train_clean.csv
+liverpool-ion-switching/submission-5-17-20.csv
